@@ -6,7 +6,8 @@ module.exports = {
       color:{
         "red": "#F92120",
         "main-bg": "#2F3136",
-        "main-nav": "#202225"
+        "main-nav": "#202225",
+        "mdb-purple": "#6366F1"
       }
     },
   },
